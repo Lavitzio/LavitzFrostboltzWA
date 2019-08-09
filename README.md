@@ -2,6 +2,8 @@
 *Developed by @Lavitz_io*
 http://twitter.com/lavitz_io
 
+Version 1.0 - Aug 09, 2019
+
 Calculates and displays the number of possible casts (current mana pool / mana cost of spell) of a Mage's best available spell.
 Fireball and Frostbolt alternate being the best until Rank 3 Frostbolt at level 14.
 
