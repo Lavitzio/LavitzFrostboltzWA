@@ -9,9 +9,11 @@ Fireball and Frostbolt alternate being the best until Rank 3 Frostbolt at level 
 
 ## Preview
 ![](https://i.imgur.com/QjWdBs2.gif)
+
 Shows spell count updating in real-time.
 
 ![](https://i.imgur.com/yJxyags.png)
+
 Shows a message when a new rank of Frostbolt (or Fireball up to Rank 3) is available to train.
 
 ## Files
