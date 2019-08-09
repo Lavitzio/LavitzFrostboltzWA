@@ -20,7 +20,7 @@ Shows the number of Frostbolts you can currently cast (or Rank 1-3 Fireball when
 ## Files
 *LavitzFrostboltzExportString* - String export of this group. Import to use!
 
-*LavitzFrostboltzWA.lua* - Displays number of best available spell casts
+*LavitzFrostboltzWA.lua* - Displays number of best available spell casts.
 
 *LavitzFrostboltzHelpWA.lua* - Displays latest available spell rank to learn from trainer.
 
