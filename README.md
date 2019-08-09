@@ -7,7 +7,11 @@ Fireball and Frostbolt alternate being the best until Rank 3 Frostbolt at level 
 
 ## Files
 *LavitzFrostboltzWA.lua* - Displays number of best available spell casts
+
 *LavitzFrostboltzHelpWA.lua* - Displays latest available spell rank to learn from trainer.
+
 *LavitzFrostboltzExportString* - String export of this group. Import to load!
+
 *LavitzFrostboltzIconFrostWA.lua* - Handles displaying the Frostbolt icon.
+
 *LavitzFrostboltzIconFireWA.lua* - Handles displaying the Fireball icon.
