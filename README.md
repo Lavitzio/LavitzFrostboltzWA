@@ -4,8 +4,9 @@ http://twitter.com/lavitz_io
 
 Version 0.99 - Aug 09, 2019
 
-Calculates and displays the number of possible casts (current mana pool / mana cost of spell) of a Mage's best available spell.
-Fireball and Frostbolt alternate being the best until Rank 3 Frostbolt at level 14.
+Shows the number of Frostbolts you can currently cast (or Rank 1-3 Fireball when appropriate). It will determine your best spell you can use, and will notify you when you have a new rank available to train. Fireball and Frostbolt alternate being the best until Rank 3 Frostbolt at level 14. Primarily used for leveling efficiently.
+
+**Wago:** https://wago.io/z4LCSxBR4
 
 ## Preview
 **GIF** Shows spell count updating in real-time.
