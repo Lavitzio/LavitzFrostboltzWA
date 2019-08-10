@@ -1,7 +1,5 @@
 # Lavitz Macros, Addons, and Others' Weakauras
 
-Some macros credit to North
-
 ## Addons
 
 *`LavitzAddonzV1.zip`* - My current pack of addons
@@ -20,6 +18,8 @@ Commands for addon anchors on a new character
 ![](_/LavitzAddonzV1Contents.png)
 
 ## Macros
+
+*Some macros credit to North*
 
 ### Addon Unlock and Addon Lock, for setting up the anchors on a new character.
 
