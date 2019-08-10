@@ -38,17 +38,17 @@ I zip all of my addons. Scroll down for addon pack description. I also share the
 ![](_/LavitzFrostboltzPreviewAll2.png)
 
 ## Files
-*Import String LavitzFrostboltz* - Copy and import this string to use!
+*`Import String LavitzFrostboltz`* - Copy and import this string to use!
 
 *Under folder `Code`:*
 
-*LavitzFrostboltzWA.lua* - Displays number of best available spell casts.
+*`LavitzFrostboltzWA.lua`* - Displays number of best available spell casts.
 
-*LavitzFrostboltzHelpWA.lua* - Displays latest available spell rank to learn from trainer.
+*`LavitzFrostboltzHelpWA.lua`* - Displays latest available spell rank to learn from trainer.
 
-*LavitzFrostboltzIconFrostWA.lua* - Handles displaying the Frostbolt icon.
+*`LavitzFrostboltzIconFrostWA.lua`* - Handles displaying the Frostbolt icon.
 
-*LavitzFrostboltzIconFireWA.lua* - Handles displaying the Fireball icon.
+*`LavitzFrostboltzIconFireWA.lua`* - Handles displaying the Fireball icon.
 
 ## Addons and Macros
 
