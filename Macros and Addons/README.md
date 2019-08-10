@@ -2,6 +2,25 @@
 
 Some macros credit to North
 
+## Addons
+
+*`LavitzAddonzV1.zip`* - My current pack of addons
+
+Does not contain a chat or bag addon. Maybe disable Luna Frames if it's your first time, all of the addons can be overwhelming at first.
+
+Commands for addon anchors on a new character
+
+- /abar lock|unlock
+- /ctm lock|unlock
+- /ltp lock|unlock
+- /details hide|show
+
+*Contents of pack:*
+
+![](_/LavitzAddonzV1Contents.png)
+
+## Macros
+
 ### Addon Unlock and Addon Lock, for setting up the anchors on a new character.
 
 ```
