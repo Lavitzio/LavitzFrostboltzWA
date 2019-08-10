@@ -60,6 +60,15 @@ Commands for addon anchors on a new character
 
 ` /script if FindBuff("Slow Fall") then CancelBuff("Slow Fall") else CastSpellByName("Slow Fall") end `
 
+### AP/Combust Trinkets
+
+```
+/script local start = GetActionCooldown(10) if ( start == 0 ) then cast("Arcane Power") end
+/cast Combustion
+/script use(13)
+/script use(14)
+```
+
 ### Stopcasting
 
 `/script SpellStopCasting()`
@@ -79,15 +88,6 @@ Commands for addon anchors on a new character
 /script SelectGossipActiveQuest(1)
 /script SelectGossipOption(1)
 /run RepopMe()AcceptResurrect()AcceptXPLoss()
-```
-
-### AP/Combust Trinkets
-
-```
-/script local start = GetActionCooldown(10) if ( start == 0 ) then cast("Arcane Power") end
-/cast Combustion
-/script use(13)
-/script use(14)
 ```
 
 ---
