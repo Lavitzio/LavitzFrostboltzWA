@@ -52,6 +52,13 @@ Link to my addon pack: htps://github.com/Lavitzio/LavitzFrostboltzWA/blob/master
 
 *LavitzAddonzV1.zip* - My current pack of addons
 
+Commands for addons:
+
+- /ctm lock|unlock
+- /ltp lock|unlock
+- /abar lock|unlock
+- /details hide|show
+
 *Contents of pack:*
 
 ![](./LavitzAddonzV1Contents.png)
