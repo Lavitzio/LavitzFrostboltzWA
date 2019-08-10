@@ -17,6 +17,8 @@ FiveSecondRule is an addon to show when the mana-per-5-seconds tick after last s
 
 Link to my addon pack: https://github.com/Lavitzio/LavitzFrostboltzWA/blob/master/LavitzAddonzV1.zip
 
+Contents of pack: ![](./LavitzAddonzV1Contents.gif)
+
 **Wago:** https://wago.io/z4LCSxBR4
 
 ## Preview
