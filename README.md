@@ -56,7 +56,7 @@ Link to my addon pack: htps://github.com/Lavitzio/LavitzFrostboltzWA/blob/master
 
 *LavitzAddonzV1.zip* - My current pack of addons
 
-Does not contain a chat or bag addon.
+Does not contain a chat or bag addon. Maybe disable Luna Frames if it's your first time, all of the addons can be overwhelming at first.
 
 Commands for addons:
 
