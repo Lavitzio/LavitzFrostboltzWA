@@ -8,9 +8,14 @@ Shows the number of Frostbolts you can currently cast (or Rank 1-3 Fireball when
 
 Open to feedback and suggestions!
 
+## Helper Addons
 The unit frames in the screenshots are Luna Frames. Luna also provides the BANGER font shown in the screenshots.
+
 The black square icon border around spells are removed with the Masque addon.
+
 FiveSecondRule is an addon to show when the mana-per-5-seconds tick after last spell cast will begin. Shown as a blue bar in the gif preview.
+
+Link to my addon pack: soon™
 
 **Wago:** https://wago.io/z4LCSxBR4
 
