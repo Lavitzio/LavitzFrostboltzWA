@@ -1,4 +1,4 @@
-# Lavitz Macros, Addons, and Others' Weakauras
+# Lavitz Addons, Macros, and Others' Weakauras
 
 ## Addons
 
