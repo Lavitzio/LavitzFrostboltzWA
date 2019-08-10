@@ -15,9 +15,7 @@ The black square icon border around spells are removed with the Masque addon.
 
 FiveSecondRule is an addon to show when the mana-per-5-seconds tick after last spell cast will begin. Shown as a blue bar in the gif preview.
 
-I zip all of my addons. Scroll down for addon pack description. I also share the macros I use in file LavitzMacroz.md
-
-Link to my addon pack: htps://github.com/Lavitzio/LavitzFrostboltzWA/blob/master/LavitzAddonzV1.zip
+I zip all of my addons. Scroll down for addon pack description. I also share the macros I use.
 
 **Wago:** https://wago.io/z4LCSxBR4
 
