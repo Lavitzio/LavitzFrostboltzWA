@@ -2,20 +2,37 @@
 *Developed by @Lavitz_io*
 http://twitter.com/lavitz_io
 
-Version 0.99 - Aug 09, 2019
+Version 1.0.3 - Aug 09, 2019
 
 Shows the number of Frostbolts you can currently cast (or Rank 1-3 Fireball when appropriate). It will determine your best spell you can use, and will notify you when you have a new rank available to train. Fireball and Frostbolt alternate being the best until Rank 3 Frostbolt at level 14. Primarily used for leveling efficiently.
+
+Open to feedback and suggestions!
+
+The unit frames in the screenshots are Luna Frames. Luna also provides the BANGER font shown in the screenshots.
+The black square icon border around spells are removed with the Masque addon.
+FiveSecondRule is an addon to show when the mana-per-5-seconds tick after last spell cast will begin. Shown as a blue bar in the gif preview.
+
+Link to my addon pack: (todo: list each addon etc and put on website)
 
 **Wago:** https://wago.io/z4LCSxBR4
 
 ## Preview
-**GIF** Shows spell count updating in real-time.
+**GIF** Shows the complete weakaura as of version 1.0.3
 
-![](https://i.imgur.com/QjWdBs2.gif)
+- How many spells you can cast with your current mana
+- Shows Fireball because that's the best spell available
+- Shows when a new rank is available (leveled up in this gif)
+- The blue bar under my player frame is FiveSecondRule
 
-**PNG** Shows a message when a new rank of Frostbolt (or Fireball up to Rank 3) is available to train.
+![](./LavitzFrostboltzPreviewAll.gif)
 
-![](https://i.imgur.com/yJxyags.png)
+**PNG** Shows how many Frostbolts are available to cast (and shows FiveSecondRule addon)
+
+![](./LavitzFrostboltzPreviewAll1.png)
+
+**PNG** Shows when the next rank is available.
+
+![](./LavitzFrostboltzPreviewAll2.png)
 
 ## Files
 *LavitzFrostboltzExportString* - String export of this group. Import to use!
