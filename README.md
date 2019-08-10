@@ -50,8 +50,8 @@ Link to my addon pack: htps://github.com/Lavitzio/LavitzFrostboltzWA/blob/master
 
 *LavitzFrostboltzIconFireWA.lua* - Handles displaying the Fireball icon.
 
-*LavitzAddonzV1.zip* My current pack of addons
+*LavitzAddonzV1.zip* - My current pack of addons
 
-Contents of pack:
+*Contents of pack:*
 
 ![](./LavitzAddonzV1Contents.png)
