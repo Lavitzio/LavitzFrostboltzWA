@@ -64,6 +64,13 @@ Commands for addon anchors on a new character
 
 `/script SpellStopCasting()`
 
+### Delete Hearthstone and Unstuck
+
+```
+/run a,b=GetItemCooldown(6948)if a+b<GetTime()and GetItemCount(6948)>0 then print("\124cffff0000WARNING: USING HEARTHSTONE!\124r")PlaySoundFile("Sound\\creature\\Voljin\\VoljinAggro01.ogg")else PlaySound(8585)end
+/click HelpFrameCharacterStuckStuck
+```
+
 ### Accept Spirithealer Rez
 
 ```
