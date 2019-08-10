@@ -1,4 +1,4 @@
-# Lavitz Macros, Addons and Others' Weakauras
+# Lavitz Macros, Addons, and Others' Weakauras
 
 Some macros credit to North
 
