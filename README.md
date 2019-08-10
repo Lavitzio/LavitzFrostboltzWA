@@ -40,6 +40,8 @@ Link to my addon pack: htps://github.com/Lavitzio/LavitzFrostboltzWA/blob/master
 ## Files
 *LavitzFrostboltzExportString* - String export of this group. Import to use!
 
+*LavitzFrostboltzExportStringLunaBangerFont* - String export with font set to Luna's Banger font.
+
 *LavitzFrostboltzWA.lua* - Displays number of best available spell casts.
 
 *LavitzFrostboltzHelpWA.lua* - Displays latest available spell rank to learn from trainer.
@@ -51,4 +53,5 @@ Link to my addon pack: htps://github.com/Lavitzio/LavitzFrostboltzWA/blob/master
 *LavitzAddonzV1.zip* My current pack of addons
 
 Contents of pack:
+
 ![](./LavitzAddonzV1Contents.png)
