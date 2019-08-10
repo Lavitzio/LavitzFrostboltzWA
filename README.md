@@ -29,15 +29,15 @@ Link to my addon pack: htps://github.com/Lavitzio/LavitzFrostboltzWA/blob/master
 - Shows when a new rank is available (leveled up in this gif)
 - The blue bar under my player frame is FiveSecondRule
 
-![](nothing/LavitzFrostboltzPreviewAllGif.gif)
+![](_/LavitzFrostboltzPreviewAllGif.gif)
 
 **PNG** Shows how many Frostbolts are available to cast.
 
-![](nothing/LavitzFrostboltzPreviewAll1.png)
+![](_/LavitzFrostboltzPreviewAll1.png)
 
 **PNG** Shows when the next rank is available.
 
-![](nothing/LavitzFrostboltzPreviewAll2.png)
+![](_/LavitzFrostboltzPreviewAll2.png)
 
 ## Files
 *Import String LavitzFrostboltz* - Copy and import this string to use!
@@ -69,4 +69,4 @@ Commands for addon anchors on a new character
 
 *Contents of pack:*
 
-![](nothing/LavitzAddonzV1Contents.png)
+![](_/LavitzAddonzV1Contents.png)
