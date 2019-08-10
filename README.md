@@ -52,9 +52,9 @@ I zip all of my addons. Scroll down for addon pack description. I also share the
 
 ## Addons and Macros
 
-*Macros and Addons / README.md* - List of macros and other weakauras I use
+*`Macros and Addons/README.md`* - List of macros and other weakauras I use
 
-*Macros and Addons / LavitzAddonzV1.zip* - My current pack of addons
+*`Macros and Addons/LavitzAddonzV1.zip`* - My current pack of addons
 
 Does not contain a chat or bag addon. Maybe disable Luna Frames if it's your first time, all of the addons can be overwhelming at first.
 
