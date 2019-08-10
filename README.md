@@ -29,20 +29,20 @@ Link to my addon pack: htps://github.com/Lavitzio/LavitzFrostboltzWA/blob/master
 - Shows when a new rank is available (leveled up in this gif)
 - The blue bar under my player frame is FiveSecondRule
 
-![](./LavitzFrostboltzPreviewAllGif.gif)
+![](nothing/LavitzFrostboltzPreviewAllGif.gif)
 
 **PNG** Shows how many Frostbolts are available to cast.
 
-![](./LavitzFrostboltzPreviewAll1.png)
+![](nothing/LavitzFrostboltzPreviewAll1.png)
 
 **PNG** Shows when the next rank is available.
 
-![](./LavitzFrostboltzPreviewAll2.png)
+![](nothing/LavitzFrostboltzPreviewAll2.png)
 
 ## Files
-*LavitzFrostboltzExportString* - String export of this group. Import to use!
+*Import String LavitzFrostboltz* - Copy and import this string to use!
 
-*LavitzFrostboltzExportStringLunaBangerFont* - String export with font set to Luna's Banger font.
+*Under folder `Code`:*
 
 *LavitzFrostboltzWA.lua* - Displays number of best available spell casts.
 
@@ -52,15 +52,15 @@ Link to my addon pack: htps://github.com/Lavitzio/LavitzFrostboltzWA/blob/master
 
 *LavitzFrostboltzIconFireWA.lua* - Handles displaying the Fireball icon.
 
-*LavitzMacroz.md* - List of macros and other weakauras I use
+## Addons and Macros
 
-## Addons
+*LavitzMacroz.md* - List of macros and other weakauras I use
 
 *LavitzAddonzV1.zip* - My current pack of addons
 
 Does not contain a chat or bag addon. Maybe disable Luna Frames if it's your first time, all of the addons can be overwhelming at first.
 
-Commands for addons:
+Commands for addon anchors on a new character
 
 - /abar lock|unlock
 - /ctm lock|unlock
@@ -69,4 +69,4 @@ Commands for addons:
 
 *Contents of pack:*
 
-![](./LavitzAddonzV1Contents.png)
+![](nothing/LavitzAddonzV1Contents.png)
