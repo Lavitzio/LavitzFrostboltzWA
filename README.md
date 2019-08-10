@@ -12,8 +12,6 @@ The unit frames in the screenshots are Luna Frames. Luna also provides the BANGE
 The black square icon border around spells are removed with the Masque addon.
 FiveSecondRule is an addon to show when the mana-per-5-seconds tick after last spell cast will begin. Shown as a blue bar in the gif preview.
 
-Link to my addon pack: (todo: list each addon etc and put on website)
-
 **Wago:** https://wago.io/z4LCSxBR4
 
 ## Preview
@@ -24,9 +22,9 @@ Link to my addon pack: (todo: list each addon etc and put on website)
 - Shows when a new rank is available (leveled up in this gif)
 - The blue bar under my player frame is FiveSecondRule
 
-![](./LavitzFrostboltzPreviewAllGif.gif)
+![](./LavitzFrostboltzPreviewAll.gif)
 
-**PNG** Shows how many Frostbolts are available to cast (and shows FiveSecondRule addon)
+**PNG** Shows how many Frostbolts are available to cast.
 
 ![](./LavitzFrostboltzPreviewAll1.png)
 
