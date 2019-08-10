@@ -50,6 +50,8 @@ Link to my addon pack: htps://github.com/Lavitzio/LavitzFrostboltzWA/blob/master
 
 *LavitzFrostboltzIconFireWA.lua* - Handles displaying the Fireball icon.
 
+## Addons
+
 *LavitzAddonzV1.zip* - My current pack of addons
 
 Does not contain a chat or bag addon.
