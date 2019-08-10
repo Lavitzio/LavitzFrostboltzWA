@@ -24,7 +24,7 @@ Link to my addon pack: (todo: list each addon etc and put on website)
 - Shows when a new rank is available (leveled up in this gif)
 - The blue bar under my player frame is FiveSecondRule
 
-![](./LavitzFrostboltzPreviewAll.gif)
+![](./LavitzFrostboltzPreviewAllGif.gif)
 
 **PNG** Shows how many Frostbolts are available to cast (and shows FiveSecondRule addon)
 
