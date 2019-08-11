@@ -8,7 +8,6 @@ local levelBreaksSize = 13
 local spellIds = {116, 143, 205, 145, 837, 7322, 8406, 8407, 8408, 10179, 10180, 10181, 25304}
 local spellIdToLearn = -1
 
-
 for i=levelBreaksSize,1,-1 do
   if (level >= levelBreaks[i] and not IsPlayerSpell(spellIds[i])) then
     spellIdToLearn = spellIds[i]
@@ -16,6 +15,12 @@ for i=levelBreaksSize,1,-1 do
   end
 end
 
-return "New rank of " .. GetSpellInfo(spellIdToLearn) .. " available!"
+local spell = GetSpellInfo(spellIdToLearn)
+
+if type(spell) == "nil" then
+  return ""
+else
+  return "New rank of " .. spell .. " available!"
+end
 
 end
