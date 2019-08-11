@@ -26,7 +26,11 @@ for i=1,spellIdsSize do
   end
 end
 
+local canCast = "                "
+if not IsPlayerSpell(143) then
+  canCast = "Can cast "
+end
 local num = math.floor(mana / cost)
-return "Can cast " .. string.format("%.f", num)
+return canCast .. string.format("%.f", num)
 
 end
