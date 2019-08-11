@@ -9,7 +9,7 @@ Open to feedback and suggestions! There's a lot of different ways you can place 
 
 
 ## Helper Addons
-The unit frames in the screenshots are Luna Frames. Luna also provides the BANGER font shown in the screenshots.
+The unit frames in the screenshots are Luna Frames. Luna also provides the BANGERS font shown in the screenshots.
 
 The black square icon border around spells are removed with the Masque addon.
 
@@ -22,7 +22,7 @@ Link to my addon pack: (OLD) https://github.com/Lavitzio/LavitzFrostboltzWA/tree
 
 
 ## Changelog
-- 1.1.2 - Change the font to default Fitz Quadrata for those who don't have Luna Frames for BANGER font
+- 1.1.2 - Change the font to default Fitz Quadrata for those who don't have Luna Frames for BANGERS font
 - 1.1.1 - I don't even want to talk about this one
 - **1.1.0** - Improved icon show logic, removed "Can cast" text, and various bug fixes
 - 1.0.8 - Fixed an error with retrieving spell name
