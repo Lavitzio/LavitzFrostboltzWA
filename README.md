@@ -2,26 +2,35 @@
 *Developed by @Lavitz_io*
 http://twitter.com/lavitz_io
 
-Version 1.0.3 - Aug 09, 2019
+Shows the number of Frostbolts you can currently cast (or Rank 1-3 Fireball when appropriate). It will determine your best spell you can use, and will notify you when you have a new rank available to train. Fireball and Frostbolt alternate being the best until Rank 3 Frostbolt at level 14. Developed to be used for leveling more efficiently.
 
-Shows the number of Frostbolts you can currently cast (or Rank 1-3 Fireball when appropriate). It will determine your best spell you can use, and will notify you when you have a new rank available to train. Fireball and Frostbolt alternate being the best until Rank 3 Frostbolt at level 14. Primarily used for leveling efficiently.
+**LavitzFrostboltz (Classic WeakAura)**
+*Version 1.1.0 - Aug 11 2019*
 
-Open to feedback and suggestions!
+Open to feedback and suggestions! There's a lot of different ways you can place this on your UI!
 
-If you want to remove the "Can cast" text: 
-- It will automatically hide when you train Fireball Rank 2
-- Else, you can edit the Cast Count weakaura under Display > Text Settings > Custom Function, at the bottom, find `return canCast .. string.format("%.f", num)` and delete the `canCast ..` part.
+**Removed the "Can cast" text.** If you want it back, either DM me or edit your Cast Count weakaura under Display > Text Settings > Custom Function, at the very bottom remove the "--" comments before each line
+
 
 ## Helper Addons
 The unit frames in the screenshots are Luna Frames. Luna also provides the BANGER font shown in the screenshots.
 
 The black square icon border around spells are removed with the Masque addon.
 
-FiveSecondRule is an addon to show when the mana-per-5-seconds tick after last spell cast will begin. Shown as a blue bar in the gif preview.
+FiveSecondRule is an addon to show when the mana-per-5-seconds tick after last spell cast will begin. Shown as a blue bar in the gif preview. I also took the Mana Tick weakaura from Buds' UI and put it on my Luna mana bar.
 
-I zip all of my addons. Scroll down for addon pack description. I also share the macros I use.
+Link to my addon pack: (OLD) https://github.com/Lavitzio/LavitzFrostboltzWA/tree/master/Addons%20and%20Macros
 
 **Wago:** https://wago.io/z4LCSxBR4
+
+
+
+## Changelog
+- **1.1.0** - Improved icon show logic, removed "Can cast" text, and various bug fixes
+- 1.0.8 - Fixed an error with retrieving spell name
+- 1.0.6 - Now hides [code]Can cast..[/code] text once you learn Fireball Rank 2
+
+
 
 ## Preview
 **GIF** Shows the complete weakaura as of version 1.0.3
