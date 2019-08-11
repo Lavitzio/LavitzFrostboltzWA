@@ -8,7 +8,9 @@ Shows the number of Frostbolts you can currently cast (or Rank 1-3 Fireball when
 
 Open to feedback and suggestions!
 
-If you want to remove the "Can cast" text: edit the Cast Count weakaura under Display > Text Settings > Custom Function, at the bottom, delete `"Can cast" ..`
+If you want to remove the "Can cast" text: 
+- It will automatically hide when you train Fireball Rank 2
+- Else, you can edit the Cast Count weakaura under Display > Text Settings > Custom Function, at the bottom, delete [code]"Can cast" ..[/code]
 
 ## Helper Addons
 The unit frames in the screenshots are Luna Frames. Luna also provides the BANGER font shown in the screenshots.
