@@ -15,7 +15,7 @@ The black square icon border around spells are removed with the Masque addon.
 
 FiveSecondRule is an addon to show when the mana-per-5-seconds tick after last spell cast will begin. Shown as a blue bar in the gif preview. I also took the Mana Tick weakaura from Buds' UI and put it on my Luna mana bar.
 
-Link to my addon pack: (OLD) https://github.com/Lavitzio/LavitzFrostboltzWA/tree/master/Addons%20and%20Macros
+Link to my addon pack: https://github.com/Lavitzio/Addons-and-Macros
 
 **Wago:** https://wago.io/z4LCSxBR4
 
@@ -60,22 +60,3 @@ Link to my addon pack: (OLD) https://github.com/Lavitzio/LavitzFrostboltzWA/tree
 *`LavitzFrostboltzIconFrostWA.lua`* - Handles displaying the Frostbolt icon.
 
 *`LavitzFrostboltzIconFireWA.lua`* - Handles displaying the Fireball icon.
-
-## Addons and Macros
-
-*`Macros and Addons/README.md`* - List of macros and other weakauras I use
-
-*`Macros and Addons/LavitzAddonzV1.zip`* - My current pack of addons
-
-Does not contain a chat or bag addon. Maybe disable Luna Frames if it's your first time, all of the addons can be overwhelming at first.
-
-Commands for addon anchors on a new character
-
-- /abar lock|unlock
-- /ctm lock|unlock
-- /ltp lock|unlock
-- /details hide|show
-
-*Contents of pack:*
-
-![](_/LavitzAddonzV1Contents.png)
