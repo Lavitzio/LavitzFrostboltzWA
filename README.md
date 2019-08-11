@@ -1,5 +1,5 @@
 # LavitzFrostboltz (Classic WeakAura)
-*Version 1.1.0 - Aug 11 2019*
+*Version 1.1.1 - Aug 11 2019*
 
 Shows the number of Frostbolts you can currently cast (or Rank 1-3 Fireball when appropriate). It will determine your best spell you can use, and will notify you when you have a new rank available to train. Fireball and Frostbolt alternate being the best until Rank 3 Frostbolt at level 14. Developed to be used for leveling more efficiently.
 
