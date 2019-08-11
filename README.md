@@ -1,4 +1,4 @@
-**LavitzFrostboltz (Classic WeakAura)**
+# LavitzFrostboltz (Classic WeakAura)
 *Version 1.1.0 - Aug 11 2019*
 *Developed by @Lavitz_io*
 http://twitter.com/lavitz_io
