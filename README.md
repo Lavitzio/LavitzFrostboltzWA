@@ -1,5 +1,5 @@
 # LavitzFrostboltz (Classic WeakAura)
-*Version 1.1.1 - Aug 11 2019*
+*Version 1.1.2 - Aug 11 2019*
 
 Shows the number of Frostbolts you can currently cast (or Rank 1-3 Fireball when appropriate). It will determine your best spell you can use, and will notify you when you have a new rank available to train. Fireball and Frostbolt alternate being the best until Rank 3 Frostbolt at level 14. Developed to be used for leveling more efficiently.
 
@@ -22,6 +22,8 @@ Link to my addon pack: (OLD) https://github.com/Lavitzio/LavitzFrostboltzWA/tree
 
 
 ## Changelog
+- 1.1.2 - Change the font to default Fitz Quadrata for those who don't have Luna Frames for BANGER font
+- 1.1.1 - I don't even want to talk about this one
 - **1.1.0** - Improved icon show logic, removed "Can cast" text, and various bug fixes
 - 1.0.8 - Fixed an error with retrieving spell name
 - 1.0.6 - Now hides [code]Can cast..[/code] text once you learn Fireball Rank 2
